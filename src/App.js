@@ -1,10 +1,11 @@
 import React from "react";
 import "./App.css";
+import animals from "./images/btm.jpg";
 
 function App() {
   return (
     <div className="App">
-      <h1>Bremen Town Devs</h1>
+      <img src={animals} alt="Bremmen Town Musicians" />
     </div>
   );
 }
