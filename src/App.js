@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import animals from "./images/btm.jpg";
 
 function App() {
